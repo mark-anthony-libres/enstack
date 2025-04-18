@@ -18,4 +18,4 @@ http://127.0.0.1:8081/redoc
 
 I’ve deployed this awesome app on Google Cloud Run go ahead and give it a spin! 🎉
 
-https://enstack-mark-anthony-libres-17135275534.us-central1.run.app
+https://enstack-mark-anthony-libres-17135275534.us-central1.run.app/docs
